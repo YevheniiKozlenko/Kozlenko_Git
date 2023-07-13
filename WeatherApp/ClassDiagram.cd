@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WeatherApp.Models.WeatherInfo">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="WeatherApp.Models.WeatherInfo.weather" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\WeatherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WeatherApp.Models.WeatherInfo.main" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\WeatherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WeatherApp.Models.WeatherInfo.wind" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\WeatherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WeatherApp.Models.WeatherInfo.sys" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\WeatherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="WeatherApp.Models.WeatherInfo.root" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\WeatherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\WeatherInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WeatherApp.Models.WeatherModel">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Models\WeatherModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WeatherApp.ViewModels.WeatherVievModel">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAAAAAgAAAAAAICAAAAADAAAAAAAAAEgAMgAAA=</HashCode>
+      <FileName>ViewModels\WeatherVievModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevExpress.Mvvm.ViewModelBase" Collapsed="true">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WeatherApp.MainWindow">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WeatherApp.App">
+    <Position X="8.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Application" Collapsed="true">
+    <Position X="8.5" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
